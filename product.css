@@ -1,0 +1,13 @@
+*{
+    margin: 0;padding: 0;font-family: "Open Sans",sans-serif;box-sizing: border-box;}
+    body{background: #7ed6df;}
+    .product-card{width: 200px;background: #ecedef;padding: 40px;text-transform: uppercase;border-radius: 20px;border-style: double;border-color: pink;margin:100px;}
+    .product-card h1{font-size: 22px;margin-bottom: 4px;}
+    .product-card p{font-size: 13px;color: #bbb;}
+    .product-pic
+    {background-image: url("https://cdn.shopify.com/s/files/1/0601/1093/0098/products/PDP-listing-_Chumbak_-1-1_600x.jpg?v=1653640859");width: 100px;height: 100px;background-size: cover;}
+
+
+
+
+
